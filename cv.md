@@ -32,3 +32,7 @@ SEO specialist with 7 years of commercial experience with a focus on on-page opt
         }
         return sum;
     }
+
+## Education
+
+Kharkiv National University of Radio Electronics, Information Control System and Technologies
