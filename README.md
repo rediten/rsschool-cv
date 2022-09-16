@@ -1,1 +1,1 @@
-https://rediten.github.io/rsschool-cv/cv
+https://rediten.github.io/rsschool-cv/
