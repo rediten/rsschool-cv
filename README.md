@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rediten.github.io/rsschool-cv/
